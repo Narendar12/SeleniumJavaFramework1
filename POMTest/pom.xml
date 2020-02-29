@@ -113,7 +113,7 @@
 					</includes> -->
 					<suiteXmlFiles>
 					<suiteXmlFile>testng6</suiteXmlFile>
-					</suiteXmlFiles>nt
+					</suiteXmlFiles>
 					<!-- <suiteXmlFiles>
 					<suiteXmlFile>${testngFile}</suiteXmlFile>
 					</suiteXmlFiles> -->
