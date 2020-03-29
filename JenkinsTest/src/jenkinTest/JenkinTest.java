@@ -10,8 +10,7 @@ public class JenkinTest {
 			
 		}
 		
-		System.out.println("This is test is a new test");
-		System.out.println("This is test is a new test2");
+		System.out.println("This is test is a new test123");
 		
 
 	}
